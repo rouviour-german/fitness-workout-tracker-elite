@@ -21,6 +21,10 @@ A comprehensive fitness and workout logging application designed to help users t
 
 ---
 
+---
+
+---
+
 ## Author & Contact
 
 - **GitHub:** [@rouviour-german](https://github.com/rouviour-german)
